@@ -150,3 +150,11 @@ En futuras iteraciones del proyecto, se podrían explorar técnicas de clusterin
 - Investigar la incorporación de datos adicionales (por ejemplo, datos demográficos) para enriquecer la segmentación.
 - Evaluar la efectividad de las recomendaciones implementadas a lo largo del tiempo.
 
+## Información Personal
+
+**Nombre:** Johanna Barzola Sarmiento  
+**Correo electrónico:** [jodebarz@espol.edu.ec]  
+**Especialización:** Ingeniera en estadística informática, especialista en Business Data Analytics, IA y transformación digital.  
+**Intereses:** Análisis de datos, modelado predictivo, y desarrollo de soluciones basadas en inteligencia artificial.
+
+
