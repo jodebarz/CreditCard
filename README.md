@@ -49,6 +49,7 @@ Se realizaron histogramas y boxplots para visualizar la distribución de las var
 - **Frecuencia de Compras**: Aunque la frecuencia de revisiones de balances y compras es alta, las actividades como adelantos en efectivo y compras a plazos son menos comunes, lo que podría sugerir una oportunidad para fomentar el uso de estas opciones entre los clientes.
 
 #### Correlaciones entre Variables
+1 Histogramas.png
 
 Se realizó un análisis de correlación para identificar relaciones entre variables. La matriz de correlación revela:
 
